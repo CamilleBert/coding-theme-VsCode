@@ -11,3 +11,4 @@ All notable changes to the "cambert" extension is documented in this file.
 - More visible colors
 - "less important" informations = less visible 
 - Majority of purple 
+![image](https://user-images.githubusercontent.com/60038113/190912542-5be9c8ca-39c3-4382-8793-e61ae85a5f74.png)
