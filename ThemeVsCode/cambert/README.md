@@ -10,7 +10,7 @@ I created my own custom theme extension for Visual Studio Code. I named it : cam
 - _Git_ : https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git
 
 #### 2. Open a terminal and type : 
-`npm install -g yo generator-code`
+Type : `npm install -g yo generator-code`
 
 Then : 
 `yo code`
