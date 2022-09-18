@@ -1,16 +1,33 @@
 # cambert README
 
-## Working with Markdown
+Hello!
+I created my own custom theme extension for Visual Studio Code. I named it : cambert.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Do you want to create your own custom theme VS Cpde ?
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+#### 1. What you need :
+- _Node.js_ : https://nodejs.org/en/download/
+- _Git_ : https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git
 
-## For more information
+#### 2. Open a terminal and type : 
+`npm install -g yo generator-code`
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Then : 
+`yo code`
+<img width="274" alt="image" src="https://user-images.githubusercontent.com/60038113/190916202-f173cdfc-ad23-4280-b3e8-f13778ea1b8d.png">
 
-**Enjoy!**
+##### 2.1 Select New Color Them 
+##### 2.2 Select No, start fresh
+##### 2.3 Type the name of your extension _(ex : cambert)_
+##### 2.4 Type an id/a short description/a public name/theme (Dark, Light or High contrast)
+##### 2.5 Open the folder in Visual Studio Code
+
+#### 3. Press `fn + f5` on Mac or `f5` on Windows
+If you modify and save the file json (in the folder themes), the result will appear on the second window.
+
+
+
+
+
+
+
