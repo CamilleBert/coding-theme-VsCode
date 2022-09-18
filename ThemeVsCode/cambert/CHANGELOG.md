@@ -10,4 +10,4 @@ All notable changes to the "cambert" extension is documented in this file.
 - Dark theme
 - More visible colors
 - "less important" informations = less visible 
-- majority of purple 
+- Majority of purple 
