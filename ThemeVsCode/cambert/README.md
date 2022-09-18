@@ -14,6 +14,8 @@ I created my own custom theme extension for Visual Studio Code. I named it : cam
 
 Then : 
 `yo code`
+
+
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/60038113/190916202-f173cdfc-ad23-4280-b3e8-f13778ea1b8d.png">
 
 ##### 2.1 Select New Color Them 
