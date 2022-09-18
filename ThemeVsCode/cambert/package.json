@@ -1,0 +1,21 @@
+{
+  "name": "cambert",
+  "displayName": "cambert",
+  "description": "Code Coder theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cambert",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cambert-color-theme.json"
+      }
+    ]
+  }
+}
