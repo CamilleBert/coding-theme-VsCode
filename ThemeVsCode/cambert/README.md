@@ -15,11 +15,11 @@ Type : `npm install -g yo generator-code`
 Then : 
 `yo code`
 #### 2. Open a terminal and type : 
-     - 2.1 Select New Color Them 
-     - 2.2 Select No, start fresh
-     - 2.3 Type the name of your extension _(ex : cambert)_
-     - 2.4 Type an id/a short description/a public name/theme (Dark, Light or High contrast)
-     - 2.5 Open the folder in Visual Studio Code
+     2.1 Select New Color Them 
+     2.2 Select No, start fresh
+     2.3 Type the name of your extension _(ex : cambert)_
+     2.4 Type an id/a short description/a public name/theme (Dark, Light or High contrast)
+     2.5 Open the folder in Visual Studio Code
 
 
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/60038113/190916202-f173cdfc-ad23-4280-b3e8-f13778ea1b8d.png">
