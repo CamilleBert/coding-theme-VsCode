@@ -19,11 +19,11 @@ Then :
 
 #### 3. Select the informations : 
 <BLOCKQUOTE>
-   3.1 Select New Color Them 
-   3.2 Select No, start fresh
-   3.3 Type the name of your extension _(ex : cambert)_
-   3.4 Type an id/a short description/a public name/theme (Dark, Light or High contrast)
-   3.5 Open the folder in Visual Studio Code
+   <p>3.1 Select New Color Them</p> 
+   <p>3.2 Select No, start fresh</p>
+   <p>3.3 Type the name of your extension _(ex : cambert)_</p>
+   <p>3.4 Type an id/a short description/a public name/theme (Dark, Light or High contrast)</p>
+   <p>3.5 Open the folder in Visual Studio Code</p>
 </BLOCKQUOTE>
 #### 4. Press `fn + f5` on Mac or `f5` on Windows _(or Execute > Execute Debugger)_
 If you modify and save the file json (in the folder themes), the result will appear on the second window.
