@@ -20,7 +20,7 @@ Then :
 #### 3. Select the informations : 
       3.1 Select New Color Theme 
       3.2 Select No, start fresh
-      3.3 Type the name of your extension _(ex : cambert)_
+      3.3 Type the name of your extension (ex : cambert)
       3.4 Type an id/a short description/a public name/theme (Dark, Light or High contrast)
       3.5 Open the folder in Visual Studio Code
 
