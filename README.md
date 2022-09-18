@@ -25,10 +25,4 @@ Then :
       3.5 Open the folder in Visual Studio Code
 
 #### 4. Press `fn + f5` on Mac or `f5` on Windows _(or Execute > Execute Debugger)_
-If you modify and save the file json (in the folder themes), the result will appear on the second window.
-
-
-
-
-
-
+If you modify and save the file json (in the folder `themes`), the result will appear on the second window.
