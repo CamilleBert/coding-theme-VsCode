@@ -3,7 +3,7 @@
 Hello!
 I created my own custom theme extension for Visual Studio Code. I named it : cambert.
 
-## Do you want to create your own custom theme VS Cpde ?
+## Do you want to create your own custom theme VS Code ?
 
 #### 1. What you need :
 - _Node.js_ : https://nodejs.org/en/download/
